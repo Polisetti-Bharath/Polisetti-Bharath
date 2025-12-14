@@ -83,6 +83,11 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFD43B)
 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
@@ -95,22 +100,13 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=11557c)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=F37626)
-
 </div>
 
 <br>
 
 ---
+
+<div align="center">
 
 ## 📈 Current Focus & Journey
 
@@ -134,13 +130,15 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 </tr>
 </table>
 
+</div>
+
 <br>
 
 ---
 
-## 🎮 Beyond Code
-
 <div align="center">
+
+## 🎮 Beyond Code
 
 🎮 Weekend gamer exploring story-driven RPGs • 🌍 Love epic world-building & creativity  
 🧠 Gaming helps me think differently • 🔄 Perfect way to unwind
@@ -152,6 +150,8 @@ _**"Balance is key - code hard, play harder!"**_
 <br>
 
 ---
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
@@ -167,6 +167,8 @@ _**"Balance is key - code hard, play harder!"**_
 <p align="center">
 💬 Open to: Tech Discussions • ML Insights • Gaming Chats • Learning Together
 </p>
+
+</div>
 
 <br>
 
