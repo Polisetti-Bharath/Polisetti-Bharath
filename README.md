@@ -24,12 +24,21 @@
 
 > *Passionate learner on a mission to become an AI Engineer and build intelligent solutions that make a difference!*
 
+<br>
+
 **🎓 Education** • BTech Honors in Computer Science & Engineering  
+
 **📚 Currently Learning** • Machine Learning & Data Structures (DSA)  
+
 **🤖 Aspiration** • Future AI Engineer  
+
 **💡 My Strength** • Logic Building & Analytical Thinking  
+
 **✨ Belief** • _"In AI we trust, but first, we learn!"_  
+
 **🎮 Hobbies** • Weekend Gaming & Story-driven RPGs
+
+<br>
 
 **🚀 What Drives Me**
 
@@ -51,8 +60,6 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 <br>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
@@ -101,8 +108,6 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 <h2 align="center">📈 Current Focus & Journey</h2>
 
 <table>
@@ -135,8 +140,6 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 <h2 align="center">🎮 Beyond Code</h2>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQzYW9pbXJmZ25iMXpjdmlqMnhlaDRlbmU0cWdqOWY2eWRxZHV6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QssGEmpkyEOhBCb7e1/giphy.gif" width="300">
@@ -157,8 +160,6 @@ _**"Balance is key - code hard, play harder!"**_
 <br>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" /> Let's Connect
