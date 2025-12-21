@@ -20,53 +20,25 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 > *Passionate learner on a mission to become an AI Engineer and build intelligent solutions that make a difference!*
 
-<br>
+**🎓 Education** • BTech Honors in Computer Science & Engineering  
+**📚 Currently Learning** • Machine Learning & Data Structures (DSA)  
+**🤖 Aspiration** • Future AI Engineer  
+**💡 My Strength** • Logic Building & Analytical Thinking  
+**✨ Belief** • _"In AI we trust, but first, we learn!"_  
+**🎮 Hobbies** • Weekend Gaming & Story-driven RPGs
 
-<table>
-<tr>
-<td>
-
-**🎓 Education**  
-BTech Honors in Computer Science & Engineering
-
-**📚 Currently Learning**  
-Machine Learning & Data Structures (DSA)
-
-**🤖 Aspiration**  
-Future AI Engineer
-
-</td>
-<td>
-
-**💡 My Strength**  
-Logic Building & Analytical Thinking
-
-**✨ Belief**  
-_"In AI we trust, but first, we learn!"_
-
-**🎮 Hobbies**  
-Weekend Gaming & Story-driven RPGs
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🚀 What Drives Me
+**🚀 What Drives Me**
 
 I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve real-world problems. Every day, I'm learning something new - whether it's understanding ML algorithms or sharpening my problem-solving skills through coding challenges.
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding GIF"/>
 
 </td>
 </tr>
