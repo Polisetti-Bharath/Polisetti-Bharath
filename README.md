@@ -47,6 +47,8 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 </td>
 <td width="45%" align="center" valign="top">
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding GIF"/>
 
 </td>
@@ -142,12 +144,7 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 
 <h2 align="center">🎮 Beyond Code</h2>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQzYW9pbXJmZ25iMXpjdmlqMnhlaDRlbmU0cWdqOWY2eWRxZHV6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QssGEmpkyEOhBCb7e1/giphy.gif" width="300">
-
-<br><br>
-
-🎮 Weekend gamer exploring story-driven RPGs • 🌍 Love epic world-building & creativity  
-🧠 Gaming helps me think differently • 🔄 Perfect way to unwind
+🎮 Weekend gamer • 🌍 Story-driven RPGs • 🔄 Perfect way to unwind
 
 _**"Balance is key - code hard, play harder!"**_
 
@@ -175,10 +172,6 @@ _**"Balance is key - code hard, play harder!"**_
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Always+open+to+interesting+conversations;Feel+free+to+reach+out+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
 
 <p align="center">
 💬 Open to: Tech Discussions • ML Insights • Gaming Chats • Learning Together
