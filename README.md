@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=100&section=header" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=120&section=header" alt="header"/>
 </div>
 
 <h1 align="center">
@@ -14,7 +14,9 @@
 
 <br>
 
-## 🌟 About Me
+<h2 align="center">
+  ✨ About Me 🚀
+</h2>
 
 <table>
 <tr>
@@ -60,9 +62,11 @@ Weekend Gaming & Story-driven RPGs
 I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve real-world problems. Every day, I'm learning something new - whether it's understanding ML algorithms or sharpening my problem-solving skills through coding challenges.
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding"/>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
 
 </td>
 </tr>
@@ -70,13 +74,19 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 
 <br>
 
-<br>
-
 ---
+
+<br>
 
 <div align="center">
 
-## 🛠️ Tech Stack & Skills
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
@@ -100,29 +110,42 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=11557c)
 
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
 
 ---
 
+<br>
+
 <div align="center">
 
-## 📈 Current Focus & Journey
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<h2 align="center">📈 Current Focus & Journey</h2>
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 <img src="https://img.shields.io/badge/🎯-MACHINE_LEARNING-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
 <b>🔍 ML Algorithms<br>📊 Data Analysis<br>📈 Statistical Modeling</b>
 </td>
-<td width="33%">
+<td width="33%" align="center">
 <img src="https://img.shields.io/badge/💡-DSA_MASTERY-9D4EDD?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
 <b>🧩 Problem Solving<br>⚡ Optimization<br>🔥 Competitive Coding</b>
 </td>
-<td width="33%">
+<td width="33%" align="center">
 <img src="https://img.shields.io/badge/🚀-LOGIC_BUILDING-FFD700?style=for-the-badge&labelColor=1a1a1a" />
 <br><br>
 <b>🧠 Analytical Thinking<br>💻 Smart Solutions<br>🎯 Code Efficiency</b>
@@ -136,9 +159,17 @@ I'm fascinated by how **Artificial Intelligence** and **Machine Learning** solve
 
 ---
 
+<br>
+
 <div align="center">
 
-## 🎮 Beyond Code
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<h2 align="center">🎮 Beyond Code</h2>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQzYW9pbXJmZ25iMXpjdmlqMnhlaDRlbmU0cWdqOWY2eWRxZHV6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QssGEmpkyEOhBCb7e1/giphy.gif" width="300">
+
+<br><br>
 
 🎮 Weekend gamer exploring story-driven RPGs • 🌍 Love epic world-building & creativity  
 🧠 Gaming helps me think differently • 🔄 Perfect way to unwind
@@ -151,9 +182,15 @@ _**"Balance is key - code hard, play harder!"**_
 
 ---
 
+<br>
+
 <div align="center">
 
-## 🤝 Let's Connect
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" /> Let's Connect
+</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/polisettibharath/">
@@ -162,6 +199,12 @@ _**"Balance is key - code hard, play harder!"**_
 <a href="https://mail.google.com/mail/?view=cm&to=bharathpolisetti29@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
 </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Always+open+to+interesting+conversations;Feel+free+to+reach+out+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -182,6 +225,6 @@ _**"Balance is key - code hard, play harder!"**_
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=120&section=footer" alt="footer"/>
 
 </div>
